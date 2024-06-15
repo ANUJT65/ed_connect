@@ -1,0 +1,13 @@
+// Flowchart
+digraph {
+	dpi=300
+	"1. \"USA":" Diverse, Influential Nation\"" -> "2. \"Democratic Government":" Checks and Balances\""
+	"1. \"USA":" Diverse, Influential Nation\"" -> "3. \"Capitalist Economy":" Innovation, Entrepreneurship\""
+	"1. \"USA":" Diverse, Influential Nation\"" -> "4. \"USA":" Leading in Manufacturing, Entertainment\""
+	"2. \"Democratic Government":" Checks and Balances\"" -> "- \"Executive, Legislative, Judicial Branches\""
+	"2. \"Democratic Government":" Checks and Balances\"" -> "- \"50 States":" Autonomous Governance\""
+	"3. \"Capitalist Economy":" Innovation, Entrepreneurship\"" -> "- \"Solid Financial System\""
+	"3. \"Capitalist Economy":" Innovation, Entrepreneurship\"" -> "- \"Key Industries":" Technology, Finance, Healthcare\""
+	"4. \"USA":" Leading in Manufacturing, Entertainment\"" -> "- \"Federal Government":" National Affairs\""
+	"4. \"USA":" Leading in Manufacturing, Entertainment\"" -> "- \"Autonomous States":" Local Governance\""
+}
